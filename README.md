@@ -81,7 +81,7 @@ Overall, the stock demonstrated **consistent upward momentum with efficient risk
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.pdf)
 
 ---
 
